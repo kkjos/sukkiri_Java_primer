@@ -1,0 +1,9 @@
+
+public class Comparison {
+	public static void main(String[] args) {
+		int a = 3;
+		int b = 5;
+		int m = Math.max(a, b);
+		System.out.println("比較実験:" + a + "と" + b + "で大きい方は" + m + "です");
+	}
+}
