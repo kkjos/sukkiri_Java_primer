@@ -4,7 +4,7 @@ public class Method01 {
 		System.out.println("メソッドを呼び出します");
 		hello(); // helloメソッドの呼び出し
 		System.out.println("メソッドの呼び出しを終了します");
-		methodA();
+		methodA();// methodAの呼び出し
 	}
 
 	public static void hello() {
@@ -12,7 +12,7 @@ public class Method01 {
 	}
 
 	public static void methodA() {
-		methodB();
+		methodB(); // methodBの呼び出し
 	}
 
 	public static void methodB() {
