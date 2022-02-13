@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		Zenhan.doWarusa();
 		Zenhan.doTogame();
-		// callDeae();
-		// showMondokoro();
+		practice6.comment.Kouhan.callDeae();
+		practice6.comment.Kouhan.showMondokoro();
 	}
 }
