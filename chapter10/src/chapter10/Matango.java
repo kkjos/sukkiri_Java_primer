@@ -1,6 +1,6 @@
 package chapter10;
 
 public class Matango {
-	String name;
-	int hp;
+	String name = "A";
+	int hp = 50;
 }
